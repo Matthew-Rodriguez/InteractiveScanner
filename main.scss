@@ -532,7 +532,7 @@ background-color: black;
   float: right;
   transform: translate(17rem, 0rem);
 
-  @media (min-width: 1281px) {
+  @media (max-width: 1281px) {
   
     position: absolute;
     top:0;
@@ -551,7 +551,7 @@ background-color: black;
   transform: translate(17rem, -5rem);
 
   
-  @media (min-width: 1281px) {
+  @media (max-width: 1281px) {
     transform: translate(50rem, -5rem);
 
   }
