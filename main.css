@@ -607,7 +607,7 @@ input {
           transform: translate(17rem, 0rem);
 }
 
-@media (min-width: 1281px) {
+@media (max-width: 1281px) {
   .img {
     position: absolute;
     top: 0;
@@ -628,7 +628,7 @@ input {
           transform: translate(17rem, -5rem);
 }
 
-@media (min-width: 1281px) {
+@media (max-width: 1281px) {
   .img2 {
     -webkit-transform: translate(50rem, -5rem);
             transform: translate(50rem, -5rem);
